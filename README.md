@@ -89,22 +89,6 @@ The blur is strong enough that detailed wallpaper characters are not meant to re
 - `LICENSE` — licensing for configuration, documentation, and artwork
 - `RELEASE_NOTES.md` — v1.0.2 release notes
 
-## Publishing
-
-Recommended repository name:
-
-```text
-omarchy-spire-theme
-```
-
-Recommended GitHub topic:
-
-```text
-omarchy-theme
-```
-
-Suggested descriptive topics: `editorial`, `bronze`, `fantasy`, `warm`.
-
 ## License
 
 Configuration and documentation are licensed under the MIT License.
