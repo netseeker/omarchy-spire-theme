@@ -21,8 +21,16 @@ Then select **Spire** from the Omarchy theme switcher.
 For local testing:
 
 ```bash
+rm -rf ~/.config/omarchy/themes/spire
 mkdir -p ~/.config/omarchy/themes/spire
-cp -a ./. ~/.config/omarchy/themes/spire/
+
+cp -a \
+  colors.toml \
+  shell.lock.toml \
+  preview.png \
+  backgrounds \
+  ~/.config/omarchy/themes/spire/
+
 omarchy theme set spire
 ```
 
