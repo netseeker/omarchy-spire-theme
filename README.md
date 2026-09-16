@@ -38,12 +38,16 @@ omarchy theme set spire
 
 Spire ships with six 16:9 backgrounds:
 
-1. `01-spire.webp` — warm hero landscape
-2. `02-hall.webp` — quiet interior with generous negative space
-3. `03-crossing.webp` — cooler landscape / daily-driver background
-4. `04-the-watch.webp` — the compact strategist keeping watch
-5. `05-the-advisor.webp` — the tall advisor overlooking the realm
-6. `06-the-conspirators.webp` — both characters at the strategy table
+Click any wallpaper to view it full size.
+
+| | |
+|---|---|
+| [![Spire](backgrounds/01-spire.webp)](backgrounds/01-spire.webp) | [![Hall](backgrounds/02-hall.webp)](backgrounds/02-hall.webp) |
+| **01 · Spire** | **02 · Hall** |
+| [![Crossing](backgrounds/03-crossing.webp)](backgrounds/03-crossing.webp) | [![The Watch](backgrounds/04-the-watch.webp)](backgrounds/04-the-watch.webp) |
+| **03 · Crossing** | **04 · The Watch** |
+| [![The Advisor](backgrounds/05-the-advisor.webp)](backgrounds/05-the-advisor.webp) | [![The Conspirators](backgrounds/06-the-conspirators.webp)](backgrounds/06-the-conspirators.webp) |
+| **05 · The Advisor** | **06 · The Conspirators** |
 
 The first four form the quieter core set. The last two are more character-focused bonus backgrounds.
 
