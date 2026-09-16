@@ -1,0 +1,8 @@
+# Lock-screen-only override. Everything else inherits Omarchy's generated shell theme.
+
+text = "#F0D7AF"
+placeholder = "#B8A27F"
+text-error = "#DC8966"
+border = "#543E2C"
+border-active = "#A38659"
+border-error = "#C87455"

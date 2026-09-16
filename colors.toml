@@ -1,0 +1,43 @@
+# Spire — warm ink, parchment and bronze with cool smoke-blue counterpoints.
+# Omarchy 4 semantic palette.
+
+mode = "dark"
+
+# Signal, selection and de-emphasised ramp
+accent = "#A38659"
+selection = "#392E24"
+muted = "#887A68"
+
+# Ground, from deepest surface to elevated surface
+background = "#131110"
+dark_background = "#0D0C0B"
+darker_background = "#080706"
+lighter_background = "#221E19"
+
+# Text hierarchy
+foreground = "#D8C4A2"
+dark_foreground = "#8D8676"
+light_foreground = "#E2CAA6"
+bright_foreground = "#F0D7AF"
+
+# Window borders. Also drives shell border tokens.
+hyprland_active_border = "rgba(6d533ae6) rgba(a38659ee) 45deg"
+hyprland_inactive_border = "rgba(543e2c88)"
+
+# Named colours
+red = "#C87455"
+yellow = "#D5A16D"
+orange = "#D18A57"
+green = "#87946A"
+cyan = "#8EA7AB"
+blue = "#72899C"
+magenta = "#A98289"
+brown = "#AD7C5A"
+
+# Bright variants
+bright_red = "#DC8966"
+bright_yellow = "#E2B77A"
+bright_green = "#A7B88B"
+bright_cyan = "#B4C5C8"
+bright_blue = "#91AABE"
+bright_magenta = "#C3A1A6"
