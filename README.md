@@ -27,7 +27,10 @@ mkdir -p ~/.config/omarchy/themes/spire
 cp -a \
   colors.toml \
   shell.lock.toml \
+  icons.theme \
   preview.png \
+  unlock.png \
+  preview-unlock.png \
   backgrounds \
   ~/.config/omarchy/themes/spire/
 
@@ -87,19 +90,35 @@ Follow the project on X: [@EvilLOTRNews](https://x.com/EvilLOTRNews)
 
 ## Lock screen
 
-Spire intentionally keeps Omarchy's standard blurred active-wallpaper lock screen. The theme only adjusts the password field colors via `shell.lock.toml`.
+Spire keeps Omarchy's standard blurred active-wallpaper session lock screen.
+The theme only adjusts the password-field colors via `shell.lock.toml`.
 
-The blur is strong enough that detailed wallpaper characters are not meant to remain legible on the lock screen; the backgrounds are designed primarily as desktop wallpapers.
+## Boot unlock
+
+Spire includes a custom Plymouth/LUKS boot-unlock illustration.
+
+<p align="center">
+  <img src="preview-unlock.png" alt="Spire boot unlock preview" width="800">
+</p>
+
+After installing Spire, select it separately under **Style → Unlock**.
+Omarchy keeps the desktop theme and boot-unlock theme selections independent.
+
+The unlock artwork is provided by `unlock.png`; `preview-unlock.png`
+is used by Omarchy's unlock-theme selector.
 
 ## Files
 
 - `colors.toml` — complete semantic palette used by Omarchy's generated themes
 - `shell.lock.toml` — lock-screen password-field color override
+- `icons.theme` — warm brown Yaru icon variant matching Spire's bronze palette
+- `unlock.png` — custom Plymouth/LUKS boot-unlock artwork
+- `preview-unlock.png` — Omarchy preview for Style → Unlock
 - `backgrounds/` — six curated wallpapers
 - `preview.png` — real Omarchy desktop preview
 - `CONTRAST.md` — contrast notes for the final palette
 - `LICENSE` — licensing for configuration, documentation, and artwork
-- `RELEASE_NOTES.md` — v1.0.2 release notes
+- `RELEASE_NOTES.md` — release notes
 
 ## License
 
