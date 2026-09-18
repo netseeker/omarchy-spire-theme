@@ -6,7 +6,7 @@ mode = "dark"
 # Signal, selection and de-emphasised ramp
 accent = "#A38659"
 selection = "#392E24"
-muted = "#887A68"
+muted = "#988A76"
 
 # Ground, from deepest surface to elevated surface
 background = "#131110"
@@ -28,9 +28,9 @@ hyprland_inactive_border = "rgba(543e2c88)"
 red = "#C87455"
 yellow = "#D5A16D"
 orange = "#D18A57"
-green = "#87946A"
+green = "#97A87C"
 cyan = "#8EA7AB"
-blue = "#72899C"
+blue = "#829BAF"
 magenta = "#A98289"
 brown = "#AD7C5A"
 
