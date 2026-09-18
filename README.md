@@ -61,15 +61,15 @@ The first four form the quieter core set. The last two are more character-focuse
 | Background | `#131110` |
 | Elevated surface | `#221E19` |
 | Foreground | `#D8C4A2` |
-| Muted text | `#887A68` |
+| Muted text | `#988A76` |
 | Light foreground | `#E2CAA6` |
 | Bright foreground | `#F0D7AF` |
 | Accent | `#A38659` |
 | Gold | `#D5A16D` |
 | Ember | `#C87455` |
-| Green | `#87946A` |
+| Green | `#97A87C` |
 | Smoke cyan | `#8EA7AB` |
-| Smoke blue | `#72899C` |
+| Smoke blue | `#829BAF` |
 
 ## Design intent
 
